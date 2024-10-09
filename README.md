@@ -26,52 +26,29 @@ I specialize in backend development using Go and Python, as well as solving DevO
 
 <div align="center">
   <h3>🛠 My Core Skills:</h3>
-  <a>
     <img align="center" src="assets/Go-00ADD8.svg" />
-  </a>
-  <a>
     <img align="center" src="assets/Python-3776AB.svg" />
-  </a>
-  <a>
     <img align="center" src="assets/PostgreSQL-336791.svg" />
-  </a>
-  <a>
     <img align="center" src="assets/MongoDB-47A248.svg" />
-  </a>
-  <a>
     <img align="center" src="assets/Nginx-269539.svg" />
-  </a>
+
 </div>
 <br>
 <div align="center">
-  <a>
     <img align="center" src="assets/Linux-FCC624.svg" />
-  </a>
-  <a>
     <img align="center" src="assets/Docker-2496ED.svg" />
-  </a>
-  <a>
     <img align="center" src="assets/Docker-Compose-2496ED.svg" />
-  </a>
+
 </div>
 
 <div align="center">
   <h3>🧑‍💻 What I Use:</h3>
-  <a>
     <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-  <a>
     <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a>
     <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  </a>
-  <a>
     <img align="center" src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  </a>
-  <a>
     <img align="center" src="assets/jetbrains-181717.svg" />
-  </a>
+
 </div>
 
 <div align="center">
