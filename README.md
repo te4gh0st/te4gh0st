@@ -1,11 +1,11 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=70&pause=1000&center=true&vCenter=true&width=1080&height=100&lines=te4gh0st" alt="Typing SVG" /></a>
+<img src="assets/te4gh0st.svg" alt="Typing SVG"/>
 
 <h1 align="center">Hi there, I'm <a href="https://te4gh0st.ru" target="_blank">Vitaliy</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Student of the Faculty of Information Technology and Information Security 	&#x1f1f7;&#x1f1fa;</h3>
+<img src="assets/Hi.gif" height="32"/></h1>
+<h3 align="center">Student of the Faculty of Information Technology and Information Security <img src="assets/Flag_of_Russia.svg" height="16"/></h3>
 
 <div align="center" markdown>
-  
+
 🌏 English | [**Русский**](./README.ru.md) |
 
 </div>
@@ -17,39 +17,45 @@
 I specialize in backend development using Go and Python, as well as solving DevOps tasks. My experience includes:
 
 - **API Development**: Working with CRUD and REST services, visualizing APIs using **OpenAPI**.
-- **Containerization**: Utilizing **Docker** and **Docker Compose** for containerization and orchestration of applications.
+- **Containerization**: Utilizing **Docker** and **Docker Compose** for containerization and orchestration of
+  applications.
 - **Server Administration**: Configuring web servers using **Nginx** and basic **Linux** administration.
-- **Database Management**: Preferring **PostgreSQL** for relational data and also working with **MongoDB** for NoSQL solutions.
+- **Database Management**: Preferring **PostgreSQL** for relational data and also working with **MongoDB** for NoSQL
+  solutions.
 - **Bot Development**: Experience in creating Telegram bots using Go and Python.
 
 <div align="center">
   <h3>🛠 My Core Skills:</h3>
   <a>
-    <img align="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img align="center" src="assets/Go-00ADD8.svg" />
   </a>
   <a>
-    <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" src="assets/Python-3776AB.svg" />
   </a>
   <a>
-    <img align="center" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img align="center" src="assets/PostgreSQL-336791.svg" />
   </a>
   <a>
-    <img align="center" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img align="center" src="assets/MongoDB-47A248.svg" />
   </a>
   <a>
-    <img align="center" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img align="center" src="assets/Nginx-269539.svg" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a>
+    <img align="center" src="assets/Linux-FCC624.svg" />
   </a>
   <a>
-    <img align="center" src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img align="center" src="assets/Docker-2496ED.svg" />
   </a>
   <a>
-    <img align="center" src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" />
+    <img align="center" src="assets/Docker-Compose-2496ED.svg" />
   </a>
-  <a>
-    <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  </a>
+</div>
 
-
+<div align="center">
   <h3>🧑‍💻 What I Use:</h3>
   <a>
     <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -63,15 +69,18 @@ I specialize in backend development using Go and Python, as well as solving DevO
   <a>
     <img align="center" src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   </a>
+  <a>
+    <img align="center" src="assets/jetbrains-181717.svg" />
+  </a>
 </div>
 
 <div align="center">
   <h2>📈 GitHub Statistics:</h2>
   <span>
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=te4gh0st&locale=en&show_icons=true&theme=transparent&border_radius=7" />
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=te4gh0st&locale=en&show_icons=true&theme=transparent&border_radius=7" />
   </span>
   <span>
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=te4gh0st&locale=en&show_icons=true&theme=transparent&border_radius=7&layout=compact&card_width=400" />
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=te4gh0st&locale=en&show_icons=true&theme=transparent&border_radius=7&layout=compact&card_width=400" />
   </span>
 </div>
 
