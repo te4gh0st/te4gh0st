@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://te4gh0st.ru" target="_blank">Vitaliy</a> 
 <img src="assets/Hi.gif" height="32"/></h1>
-<h3 align="center">Студент факультета информационных технологий и информационной безопасности <img src="assets/Flag_of_Russia.svg" height="16"/></h3>
+<!-- <h3 align="center">Студент факультета информационных технологий и информационной безопасности <img src="assets/Flag_of_Russia.svg" height="16"/></h3> -->
 
 
 ---
